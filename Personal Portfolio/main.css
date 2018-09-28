@@ -2,6 +2,7 @@ body {
     background: whitesmoke;
     height: 100%;
     border-image-source: url(/images/borderimage.png);
+    border-image-width: 30px;
 }
 h2 {
     margin: 60px;
