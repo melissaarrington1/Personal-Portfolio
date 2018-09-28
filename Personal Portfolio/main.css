@@ -1,0 +1,62 @@
+body {
+    background: whitesmoke;
+    height: 100%;
+}
+h2 {
+    margin: 60px;
+    border-bottom: solid 5px;
+
+}
+p {
+    margin: 60px;
+    text-align: center;
+    font-size: 30px;
+}
+.para {
+    background-image: url(images/abstract.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 900px;
+    border: solid black;
+    color: white;
+    font-family: 'Muli', sans-serif;
+    font-size: 50px;
+    font-weight: bold;
+    padding: 20px;
+}
+.parachild {
+    
+    height: 150px;
+    border: solid;
+
+}
+.secondpara {
+    display: fixed;
+    background-repeat: no-repeat;
+    background-size: 800px;
+    background-color: rgb(88, 61, 139);
+    height: 900px;
+    border: solid;
+    color: white;
+    font-family: 'Muli', sans-serif;
+    font-size: 50px;
+    font-weight: bold;
+}
+.secondparachild {
+    height: 150px;
+    border: solid;
+}
+ul{
+    margin: 25px;
+    position: relative;
+    display: flex;
+    justify-content: center;
+}
+.images {
+    display: flex;
+    justify-content: space-around;
+}
+#git_logo {
+    height: 330px;
+}
